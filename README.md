@@ -2,7 +2,7 @@
 
 **Welcome to my repo :)**
 
-## General Desccription
+## General Description
 
 this is a python machine learning project that classifies Covid 19 test results based on a number of different features that like age and various other viral and blood tests.
 
