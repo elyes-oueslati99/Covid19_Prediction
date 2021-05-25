@@ -4,7 +4,8 @@
 
 ## General Desccription
 
-this is a python machine learning project that classifies Covid 19 test results based on a number of different features that like age and various other viral and blood tests
+this is a python machine learning project that classifies Covid 19 test results based on a number of different features that like age and various other viral and blood tests.
+
 This Project contains 4 main parts:
 
 - exploratory data analysis _EDA_
