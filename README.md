@@ -12,7 +12,7 @@ This Project contains 4 main parts:
 - Data Preprocessing
 - Modeling
 - Hyper-parameter fine-tunning
-
+---
 ## Technology
 
 > the code for this project is written in a jupyter notebook
